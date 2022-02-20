@@ -1,4 +1,4 @@
 fun addTwoNumbers(num1 : Int, num2 : Int): Unit {
-    print("${num1 + num2}")
+    print("the result is ${num1 + num2}")
 }
 
